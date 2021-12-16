@@ -1,0 +1,44 @@
+//en.json
+{
+  "global":{
+    "placeholderFirstName":"Enter first name",
+    "placeholderLastName":"Enter last name",
+    "placeholderPassword":"Enter password",
+    "placeholderConfirmPassword":"Enter confirm password",
+    "placeholderEmail":"Enter email address"
+  },
+  "drawer": {
+    "homeDrawerItemText":"Home",
+    "signoutDrawerItemText":"Sign Out"
+  },
+  "login": {
+    "login":"Login",
+    "loginBtn":"Log in",
+    "signUpBtn":"Sign up"
+  },
+  "signUp": {
+    "signUp":"Sign up",
+    "loginBtn":"Log in",
+    "signUpBtn":"Sign up"
+  },
+  "firstTab": {
+    "headerText":"First Tab",
+    "headingText":"First Tab not design yet"
+  },
+  "secondTab": {
+    "headerText":"Seond Tab",
+    "headingText":"Second Tab not design yet"
+  },
+  "thirdTab": {
+    "headerText":"Third Tab",
+    "headingText":"Third Tab not design yet"
+  },
+  "fourthTab": {
+    "headerText":"Fourth Tab",
+    "headingText":"Fourth Tab not design yet"
+  },
+  "NotificationSceen": {
+    "headerText":"Notification Screen",
+    "headingText":"Notifications Screen"
+  }
+}
